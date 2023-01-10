@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-nqueens.py
-# wanjala stephen <stephenwanjala145@gmail.com>
+# wanjala
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N

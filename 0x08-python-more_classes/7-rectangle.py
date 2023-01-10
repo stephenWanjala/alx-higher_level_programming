@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 7-rectangle.py
-# wanjala stephen <stephenwanjala145@gmail.com>
+# wanjala
 """Defines a Rectangle class."""
 
 
